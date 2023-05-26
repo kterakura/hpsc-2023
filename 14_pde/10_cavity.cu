@@ -1,3 +1,5 @@
+// cuda/10.2.89   2) gcc/8.3.0
+
 #include <iostream>
 #include <cmath>
 #include <vector>
